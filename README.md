@@ -45,7 +45,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/sthasubin429/personal-website.git
+git clone https://github.com/subinstha/personal-website.git
 
 # Navigate to project directory
 cd personal-website

@@ -5,7 +5,7 @@
   "description": "My Portfolio Website. Available at: https://www.subinstha.com.np/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sthasubin429/personal-website.git"
+    "url": "git+https://github.com/subinstha/personal-website.git"
   },
   "scripts": {
     "dev": "astro dev",
@@ -29,7 +29,7 @@
   "author": "Subin Shrestha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sthasubin429/personal-website/issues"
+    "url": "https://github.com/subinstha/personal-website/issues"
   },
-  "homepage": "https://github.com/sthasubin429/personal-website"
+  "homepage": "https://github.com/subinstha/personal-website"
 }
