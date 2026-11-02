@@ -40,6 +40,15 @@ export const featuredProjects: ProjectType[] = [
 ];
 
 export const archiveProjects: ArchiveProjectType[] = [
+  // 2026 Projects
+  {
+    year: 2026,
+    title: 'Map of the Universe',
+    techStack: ['Svelte', 'TypeScript', 'WebGL2', 'Vite', 'Python'],
+    projectUrl: 'https://www.subinstha.com.np/map-of-the-universe/',
+    category: 'Software Engineering',
+  },
+
   // 2025 Projects
   {
     year: 2025,
