@@ -45,6 +45,7 @@ export const archiveProjects: ArchiveProjectType[] = [
     year: 2026,
     title: 'Map of the Universe',
     techStack: ['Svelte', 'TypeScript', 'WebGL2', 'Vite', 'Python'],
+    repoUrl: 'https://github.com/subinstha/map-of-the-universe',
     projectUrl: 'https://www.subinstha.com.np/map-of-the-universe/',
     category: 'Software Engineering',
   },
